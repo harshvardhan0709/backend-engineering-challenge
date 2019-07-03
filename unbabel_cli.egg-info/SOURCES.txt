@@ -1,0 +1,9 @@
+README.md
+setup.py
+unbabel_cli/__init__.py
+unbabel_cli/__main__.py
+unbabel_cli.egg-info/PKG-INFO
+unbabel_cli.egg-info/SOURCES.txt
+unbabel_cli.egg-info/dependency_links.txt
+unbabel_cli.egg-info/entry_points.txt
+unbabel_cli.egg-info/top_level.txt

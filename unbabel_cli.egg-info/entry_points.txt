@@ -1,0 +1,3 @@
+[console_scripts]
+unbabel_cli = unbabel_cli.__main__:main
+
